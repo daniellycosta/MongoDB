@@ -1,0 +1,22 @@
+{
+  "name": "mongodb-training",
+  "version": "1.0.0",
+  "description": "Contacts agenda program with CLI",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "contacts",
+    "mongodb",
+    "CLI",
+    "node"
+  ],
+  "author": "Danielly Costa",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.2.4",
+    "mongodb": "^4.6.0"
+  }
+}
