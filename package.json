@@ -5,6 +5,8 @@
   "main": "app.js",
   "scripts": {
     "start": "node app2.js",
+    "app":"node app.js",
+    "app2":"node app2.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
